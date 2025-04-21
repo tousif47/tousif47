@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tousif
 - 👀 I’m interested in creating new solutions with Machine Learning and Artificial Intelligence techniques
-- 🌱 My current focus to integrate LLMs in low end devices
+- 🌱 My current focus is to integrate LLMs in low end devices
 - 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning fields (and of course Games!)
 - 📫 How to reach me -> mtzaman94@gmail.com
 <!---
